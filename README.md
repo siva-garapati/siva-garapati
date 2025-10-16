@@ -43,8 +43,8 @@ I'm a **Full Stack Developer** passionate about building real-time web applicati
 ---
 
 ### 📊 GitHub Stats
-![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siva-garapati&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siva-garapati&layout=compact&theme=tokyonight)
+![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siva-garapati&theme=dark&hide_border=true&include_all_commits=false&count_private=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanasaitholeti&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
