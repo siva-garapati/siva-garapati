@@ -43,21 +43,20 @@ I'm a **Full Stack Developer** passionate about building real-time web applicati
 ---
 
 ### 📊 GitHub Stats
-![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivagarapati&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sivagarapati&layout=compact&theme=tokyonight)
+![Siva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=siva-garapati&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=siva-garapati&layout=compact&theme=tokyonight)
 
 ---
 
 ### 💼 Projects
-🔹 [PhonePe Statement Analyzer](https://github.com/your-repo) — Extracts and visualizes transaction data using React & Node.js  
-🔹 [MERN ToDo Application](https://github.com/your-repo) — Task management with status tracking and local + DB sync  
-🔹 [AI Quiz Generator](https://github.com/your-repo) — AI-powered quiz generation app using Express.js and React  
+🔹 [PhonePe Statement Analyzer](https://peflow.vercel.app) — Extracts and visualizes transaction data using React & Node.js  
+🔹 [MERN ToDo Application] — Task management with status tracking and local + DB sync
 
 ---
 
 ### 📫 Connect With Me
 📧 [sivagarapati999@gmail.com](mailto:sivagarapati999@gmail.com)  
-💼 [LinkedIn](https://linkedin.com/in/your-link)  
+💼 [LinkedIn](https://linkedin.com/in/siva-garapati)  
 🌐 [Portfolio](https://your-portfolio-link)
 
 ---
