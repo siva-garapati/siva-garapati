@@ -24,7 +24,7 @@ I'm a **Full Stack Developer** passionate about building real-time web applicati
 - 💡 Skilled in: Python, JavaScript, React.js, Node.js, Express.js, MongoDB
 - ⚙️ Familiar with: REST APIs, Flask, OpenAI
 - 💼 Looking for: **Full-time opportunities in Web Development / Software Engineering**
-- 🧠 Interests: AI + Web Integration, Data Visualization, and Open Source Projects
+- 🧠 Interests: AI Integration in Full-Stack Applications, Real-time Web Systems & Data-Driven Solutions
 ---
 
 ### 🛠️ Tech Stack
