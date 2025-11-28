@@ -49,15 +49,24 @@ I'm a **Full Stack Developer** passionate about building real-time web applicati
 ---
 
 ### 💼 Projects
-🔹 [PhonePe Statement Analyzer](https://peflow.vercel.app) — Extracts and visualizes transaction data using React & Node.js  
-🔹 [MERN ToDo Application] — Task management with status tracking and local + DB sync
+🔹 **[PE Flow – PhonePe Statement Analyzer](https://peflow.vercel.app)**  
+Extracts and visualizes Phonepe transaction data using React & Node.js
+
+🔹 **[ChatBox – Real-time Chat Application](https://newchatbox.vercel.app/)**  
+Real-time messaging with **Socket.io, Express & MongoDB** featuring **user auth and messaging**
+
+🔹 **E-Commerce App**  
+Full-stack shopping application with **product catalogue, cart, checkout & JWT authentication** (MERN)
+
+🔹 **MERN ToDo Application**
+Task management with **CRUD, status tracking (Pending/Completed), login system & Local ↔ DB sync**
 
 ---
 
 ### 📫 Connect With Me
 📧 [sivagarapati999@gmail.com](mailto:sivagarapati999@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/siva-garapati)  
-🌐 [Portfolio](https://your-portfolio-link)
+🌐 [Portfolio](https://sivagarapati.vercel.app/)
 
 ---
 
